@@ -5,4 +5,4 @@
 2. Ensuite faire avec le main_series_foundpart-iptv.py si cela ne foncitonne pas main_series_foundpart-ru.py sinon contactez moi
 3. pour télécharger les séries utiliser le main_download.py
 
-https://wookafr.site/
+https://wookafr-officiel.net/
